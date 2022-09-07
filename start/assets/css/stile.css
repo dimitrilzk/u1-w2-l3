@@ -377,11 +377,11 @@ footer a {
         aside {
             display: flex;
             flex-direction: column;
-            max-width: 40%;
+            width: 40%;
 
         }
         article {
-            max-width: 60%;
+            width: 60%;
         }
         .art {
             display: flex;
