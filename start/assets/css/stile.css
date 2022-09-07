@@ -334,6 +334,9 @@ footer a {
 
 
 
+
+
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
     .nav {
         display: flex;
@@ -347,8 +350,8 @@ footer a {
     align-items: stretch;
     background-color: white;
     border: none;
-    margin-inline-start: -3%;
-    margin-inline-end: -3%;
+    margin-inline-start: -2%;
+    margin-inline-end: -2%;
     margin-bottom: 0;
     }
 
@@ -375,7 +378,7 @@ footer a {
             display: flex;
             flex-direction: column;
             max-width: 40%;
-            
+
         }
         article {
             max-width: 60%;
